@@ -23,11 +23,6 @@
 <img src="https://cn.vuejs.org/images/lifecycle.png" alt="img" style="zoom: 30%;" />
 
 
-
-
-
-![image-20210609173527497](C:\Users\59949\AppData\Roaming\Typora\typora-user-images\image-20210609173527497.png)
-
 XMLHttpRequest 对象用于和服务器交换数据。当你的页面全部加载完毕后，客户端会通过 `XMLHttpRequest` 对象向服务器请求数据，服务器端接受数据并处理后，向客户端反馈数据。类似于AJAX 实现异步请求
 
 ### computed：计算属性
